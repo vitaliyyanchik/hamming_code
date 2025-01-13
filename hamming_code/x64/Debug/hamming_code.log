@@ -1,0 +1,3 @@
+﻿  hamming_code.c
+C:\Users\Юзер\OneDrive\Рабочий стол\my_works_c(c++)\hamming_code\hamming_code\hamming_code.c(14,2): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+  hamming_code.vcxproj -> C:\Users\Юзер\OneDrive\Рабочий стол\my_works_c(c++)\hamming_code\x64\Debug\hamming_code.exe
