@@ -1,0 +1,1 @@
+This is small student program that builds Hamming code from a bit sequnce. All comments to this code are written in Ukrainian. If you notice some mistakes or possible improvements, don't be strict I`m only freshman! Hope, this code will help students like me. 
